@@ -1,25 +1,25 @@
 {
-    "version": "0.72.0.1",
+    "version": "0.73.0.1",
     "homepage": "http://kitty.9bis.net",
-    "description": "A telnet / SSH client, which is a fork from version 0.72 of PuTTY.",
+    "description": "A telnet / SSH client, which is a fork from version 0.73 of PuTTY.",
     "license": "MIT",
     "url": [
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/genpass.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/kittygen.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/kageant.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/kitty.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/klink.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/kscp.exe",
-        "https://github.com/cyd01/KiTTY/releases/download/v0.72.0.1/ksftp.exe"
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/genpass.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/kittygen.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/kageant.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/kitty.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/klink.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/kscp.exe",
+        "https://github.com/cyd01/KiTTY/releases/download/v0.73.0.1/ksftp.exe"
     ],
     "hash": [
         "13673f67164c1d0431ffdb8da93c97e64e18f0458eb7d30ebd52ee18f72ef94e",
-        "0aa18942c6fde7e1fbd4904227084937cb26f5ac58797db48229979b3e6548d4",
-        "f1ccbd6a3ba8514bceb3ef89ac12066e5c6651908ea0afcb0b15dba1719f2c7f",
-        "a9c9b066d13073a3869eee6b54765f41c98861cc4946700499387f3d8e7888d5",
-        "6beb858fd15274910b9220a5b9f2f46920c1aadc57d5078b368e0d6348d8582a",
-        "440b4111231b39548c070650e3bd5ff094108153a25bb40150b660f504c4e087",
-        "79f6d09e1788d7611fac34c29fab226d98e785637134d0cb77b1675d9f8a0970"
+        "16a303a6cc90ed7c5ca6a55a5fe67b1a98771a445ce5b2cecca87c99a35f6e28",
+        "15288183567cfdb3b96adfc91d03e6c4c9f83059aa6804e55c645ea0edb44665",
+        "6751f4f52d7e3f88cc6be8af11d66d201bed345e9fea33fe2f120c4e09e4dd16",
+        "5d843a6efd7d719a0243d2b415a5f2cacdc7718563e1c2df2111a42ee2c7b4b9",
+        "4b5678f420678ecdf877f3fc89bd3cc5c90c87143dd077f05b1a98589df8e7ff",
+        "60ba9ac34ba38b61aeb809a64859132e22914a2336e385d9ab50ba1ef1cf1808"
     ],
     "bin": [
         "genpass.exe",
